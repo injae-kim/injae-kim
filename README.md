@@ -1,7 +1,9 @@
 ### Always be Self-Motivated Team Player!
-![image](https://github.com/injae-kim/injae-kim/assets/34854527/70215679-4007-4ce7-be37-43b9d3a2cd4d)
+<img src="https://github.com/injae-kim/injae-kim/assets/34854527/70215679-4007-4ce7-be37-43b9d3a2cd4d" width=450>
+<img src="https://github.com/injae-kim/injae-kim/assets/34854527/a4087de9-3642-4533-aef7-4428ec4511b2" width=400> |
 
 - [How LINE OpenChat Server Handles Extream Traffic Spikes](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes), LINE&Yahoo tech-verse 2022
+- [LINE OpenSource Spring 2023](https://youtu.be/jYT98fxN6Ak?si=XgAgIvhm3Zo2_w2w) - Armeria MVP
 
 I'm `LINE OpenChat` backend engineer @line and `open-source` contributor on `@line/armeria`, `netty`, `spring-batch`, ..
 
