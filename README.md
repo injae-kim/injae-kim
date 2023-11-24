@@ -9,7 +9,7 @@ I'm `LINE OpenChat` backend engineer @line and `open-source` contributor on `@li
 
 Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) as founding member for 3 years.
 
-### Open Source
+### Open Source Contributions
 - [@line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Ainjae-kim)
   - Make `StreamMessage(reactive-streams)` <-> `InputStream, OutputStream` convertable
   - Add `SurroundingPublisher` that can add head or tail item on `Publisher(reactive-streams)`
