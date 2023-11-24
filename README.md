@@ -14,7 +14,7 @@ Also participated in 2 start-up as founding member for 3 years.
 - [netty](https://github.com/netty/netty/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Make ScheduledEventExecutor task scheduler pluggable
 - [spring-batch](https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ainjae-kim+)
-- [open source study](https://chip-bream-9d5.notion.site/c96f1ae9aef840789d425b7a985b4eb5?v=0b33cfd3e31145eeb8d419be01cd4704&pvs=4)https://chip-bream-9d5.notion.site/c96f1ae9aef840789d425b7a985b4eb5?v=0b33cfd3e31145eeb8d419be01cd4704&pvs=4 at GDG_songdo
+- [open source study](https://chip-bream-9d5.notion.site/c96f1ae9aef840789d425b7a985b4eb5?v=0b33cfd3e31145eeb8d419be01cd4704&pvs=4) at GDG_songdo
   - Help 30+ peoples to open first PR on open-source they want (Next.js, react, angular, flutter, spring, ..)
 
 ### My Interests
@@ -24,4 +24,5 @@ Also participated in 2 start-up as founding member for 3 years.
 
 ### Contact
 - 📫injae.kim.dev@gmail.com
+  - I like coffee chat! feel free to mail me when you want 🙂
 - [linked.in](www.linkedin.com/in/injae-kim-dev)
