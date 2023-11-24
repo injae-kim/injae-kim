@@ -3,9 +3,9 @@
 
 - [How LINE OpenChat Server Handles Extream Traffic Spikes](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes), LINE&Yahoo tech-verse 2022
 
-I'm `LINE OpenChat` backend engineer @line, also open-source contributor on `@line/armeria`, `netty`, `spring-batch`, ..
+I'm `LINE OpenChat` backend engineer @line and `open-source` contributor on `@line/armeria`, `netty`, `spring-batch`, ..
 
-Also participated in 2 start-up as founding member for 3 years.
+Also participated in 2 `start-up` as founding member for 3 years.
 
 ### Open Source
 - [@line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Ainjae-kim)
@@ -18,11 +18,13 @@ Also participated in 2 start-up as founding member for 3 years.
   - Help 30+ peoples to open first PR on open-source they want (Next.js, react, angular, flutter, spring, ..)
 
 ### My Interests
-- Large/Burst traffic handling
-- Open source contribution
-- Documentation, Visualization, Communication
+- Large/Burst traffic handling and Distributed System/Architecture
+- Open Source Contribution
+- Documentation, Visualization, Communication, Sharing&Presentation
+- 🎾Tennis, 🎸Band (bass, saxophone player)
 
 ### Contact
 - 📫injae.kim.dev@gmail.com
   - I like coffee chat! feel free to mail me when you want 🙂
+- [About me](https://injae-kim.github.io/about/) blog
 - [linked.in](www.linkedin.com/in/injae-kim-dev)
