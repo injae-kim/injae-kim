@@ -29,4 +29,4 @@ Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09
 - 📫injae.kim.dev@gmail.com
   - I like coffee chat! feel free to mail me when you want 🙂
 - [About me](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) blog
-- [linked.in](www.linkedin.com/in/injae-kim-dev)
+- [linked.in](https://www.linkedin.com/in/injae-kim-dev)
