@@ -31,3 +31,4 @@ Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09
   - I like coffee chat! feel free to mail me when you want 🙂
 - [About me](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) blog
 - [linked.in](https://www.linkedin.com/in/injae-kim-dev)
+- [GDG Songdo](https://litt.ly/gdg_songdo) (south korea) organizer
