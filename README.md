@@ -5,7 +5,7 @@
 - [How LINE OpenChat Server Handles Extream Traffic Spikes](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes), LINE&Yahoo Japan tech-verse 2022
 - [LINE OpenSource Sprint 2023](https://youtu.be/jYT98fxN6Ak?si=XgAgIvhm3Zo2_w2w) - Armeria MVP
 
-I'm `LINE OpenChat` backend engineer @line and `open-source` contributor on `@line/armeria`, `netty`, `spring-batch`, ..
+I'm `LINE OpenChat` backend engineer and `open-source` contributor on `@line/armeria`, `netty`, `spring-batch`, ..
 
 Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) as founding member for 3 years.
 
