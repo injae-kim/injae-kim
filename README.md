@@ -25,7 +25,7 @@ Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09
 - Documentation, Visualization, Communication, Sharing&Presentation
 - 🎾Tennis, 🎸Band (bass, saxophone player)
 
-### ✔️ Contact
+### 📝 Contact
 - injae.kim.dev@gmail.com
   - ☕ I like coffee chat! feel free to mail me when you want 🙂
 - [About me](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) blog
