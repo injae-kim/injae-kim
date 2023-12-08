@@ -12,7 +12,7 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 ### ✔️ Open Source Contributions
 - [@line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Ainjae-kim)
   - Add `CompositeHttpHeaders` that wraps `HttpHeaders` without expensive copy operations
-  - Make `StreamMessage(reactive-streams, async)` <-> `InputStream, OutputStream(sync)` convertable
+  - Add `StreamMessage(reactive-streams, async)` <-> `InputStream, OutputStream(sync)` converter
   - Add `SurroundingPublisher` that can add head or tail item on `Publisher(reactive-streams)`
 - [netty](https://github.com/netty/netty/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Make ScheduledEventExecutor task scheduler pluggable
