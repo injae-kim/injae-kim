@@ -7,7 +7,7 @@
 
 I'm `LINE OpenChat` backend engineer and `open-source` contributor on `@line/armeria`, `netty`, `spring-batch`, ..
 
-Also participated in 2 [start-up](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) as founding member for 3 years.
+Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09/06/sheco-startup.html) as founding member for 3 years.
 
 ### ✔️ Open Source Contributions
 - [@line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Ainjae-kim)
