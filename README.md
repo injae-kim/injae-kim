@@ -24,7 +24,7 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 ## My Interests
 - Large/Burst traffic handling and Distributed System/Architecture
 - Open Source Contribution
-- Documentation, Visualization, Communication, Sharing&Presentation
+- Documentation, Visualization, Communication
 - 🎷Saxophone
 
 ## Contact
