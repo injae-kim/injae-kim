@@ -17,6 +17,7 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 - [spring-framework](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Support sending large `STOMP messages` as fragmented frames on `WebSocketStompClient` [#31970](https://github.com/spring-projects/spring-framework/pull/31970)
   - Fix `DefaultDataBuffer#getNativeBuffer()` to set correct limit [#32009](https://github.com/spring-projects/spring-framework/pull/32009)
+  - `WebClient` and `RestClient`'s `defaultRequest(..)` is not invoked early enough [#32053](https://github.com/spring-projects/spring-framework/issues/32053)
 - [spring-batch](https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Fix `FlowBuilder.next().end()` infinite loop [#4475](https://github.com/spring-projects/spring-batch/pull/4475)
   - Support full `regular expression` on `PatterMatcher.match()` [#4492](https://github.com/spring-projects/spring-batch/pull/4492)
