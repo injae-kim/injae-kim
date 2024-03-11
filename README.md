@@ -24,6 +24,7 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 - [reactor-core](https://github.com/reactor/reactor-core/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Add `AutoCloseable` shourtcut on `Flux#using`, `Mono#using` [#3704](https://github.com/reactor/reactor-core/pull/3704)
   - Throw wrapped `TimeoutException` on `Mono.block*` and `Flux.block*` [#3733](https://github.com/reactor/reactor-core/pull/3733)
+  - `expandDeep` uses unbounded queue which results in OutOfMemoryException [#3411](https://github.com/reactor/reactor-core/issues/3411)
 - [netty](https://github.com/netty/netty/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Make `ScheduledEventExecutor` task scheduler pluggable [#13552](https://github.com/netty/netty/pull/13552)
 - [resilience4j](https://github.com/resilience4j/resilience4j/pulls?q=is%3Apr+author%3Ainjae-kim+)
