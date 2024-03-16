@@ -21,6 +21,7 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 - [spring-batch](https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Fix `FlowBuilder.next().end()` infinite loop [#4475](https://github.com/spring-projects/spring-batch/pull/4475)
   - Support full `regular expression` on `PatterMatcher.match()` [#4492](https://github.com/spring-projects/spring-batch/pull/4492)
+  - Fix `SystemCommandTasklet` to propagate error when exit status is failed [#4566](https://github.com/spring-projects/spring-batch/pull/4566)
 - [reactor-core](https://github.com/reactor/reactor-core/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Add `AutoCloseable` shourtcut on `Flux#using`, `Mono#using` [#3704](https://github.com/reactor/reactor-core/pull/3704)
   - Throw wrapped `TimeoutException` on `Mono.block*` and `Flux.block*` [#3733](https://github.com/reactor/reactor-core/pull/3733)
