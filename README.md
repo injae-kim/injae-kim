@@ -11,9 +11,10 @@ Also participated in [2 start-up](https://injae-kim.github.io/experience/2020/09
 
 ## Open Source Contributions
 - [LINE/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Ainjae-kim) (15+ new feature)
+  - Add `AsyncLoader` to load and update value periodically [#5590](https://github.com/line/armeria/pull/5590)
+  - Add `CompositeHttpHeaders` that wraps `HttpHeaders` without expensive copy operations [#5340](https://github.com/line/armeria/pull/5340)
   - Add `StreamMessage(reactive-streams, async)` <-> `InputStream, OutputStream(sync)` converter [#4703](https://github.com/line/armeria/pull/4703)
   - Add `SurroundingPublisher` that can add head or tail item on `Publisher(reactive-streams)` [#4727](https://github.com/line/armeria/pull/4727)
-  - Add `CompositeHttpHeaders` that wraps `HttpHeaders` without expensive copy operations [#5340](https://github.com/line/armeria/pull/5340)
 - [spring-framework](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+author%3Ainjae-kim+)
   - Support sending large `STOMP messages` as fragmented frames on `WebSocketStompClient` [#31970](https://github.com/spring-projects/spring-framework/pull/31970)
   - Fix `DefaultDataBuffer#getNativeBuffer()` to set correct limit [#32009](https://github.com/spring-projects/spring-framework/pull/32009)
