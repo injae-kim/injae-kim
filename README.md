@@ -1,4 +1,4 @@
-## Let's Unleash Our Full Potential!
+## Let's live as much as I know!
 <img src="https://github.com/injae-kim/injae-kim/assets/34854527/70215679-4007-4ce7-be37-43b9d3a2cd4d" width=350>
 <img src="https://github.com/injae-kim/injae-kim/assets/34854527/a4087de9-3642-4533-aef7-4428ec4511b2" width=300>
 
